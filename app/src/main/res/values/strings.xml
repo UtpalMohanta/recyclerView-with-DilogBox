@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">caRdView</string>
+    <string name="name">name</string>
+    <string name="contact_image">contact_image</string>
+    <string name="contact">Contact</string>
+    <string name="_01761089484">01761089484</string>
+    <string name="contact_number">Contact number</string>
+    <string name="todo">TODO</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="enter_name">Enter Name:</string>
+    <string name="enter_your_name">Enter your name:</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="update">update</string>
+    <string name="todo1">TODO</string>
+    <string name="add_contact1">Add Contact</string>
+    <string name="enter_name1">Enter name</string>
+    <string name="enter_number1">Enter number</string>
+    <string name="add">Add</string>
+    <string name="update_contact">Update Contact</string>
+    <string name="update_contact1" />
+    <string name="update2">Update</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:background="#2888D5"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tXt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/add_contact1"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"/>
+
+    <EditText
+        android:id="@+id/ediT1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_name1"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:textSize="18sp"
+        android:inputType="text"
+        android:background="@color/white"/>
+
+    <EditText
+        android:id="@+id/ediT2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_number1"
+        android:textSize="18sp"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:inputType="number"
+        android:background="@color/white"/>
+    <Button
+        android:id="@+id/bTN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/add"
+        android:textColor="@color/black"
+        android:layout_gravity="end"
+        android:layout_margin="10dp"
+        android:backgroundTint="@color/white"/>
+
+</LinearLayout>
