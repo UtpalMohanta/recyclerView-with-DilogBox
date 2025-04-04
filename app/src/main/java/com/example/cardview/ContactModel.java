@@ -15,4 +15,11 @@ public class ContactModel {
         this.name=name;
         this.number=number;
     }
+    /*
+    data class ContactModel(
+    val img: Int? = null,  // Nullable, since not all constructors provide an image
+    val name: String,
+    val number: String
+)
+     */
 }
